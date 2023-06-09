@@ -11,4 +11,20 @@
 
 Now docker commands work from Windows using the new WSL 2 engine.
 
-### 
+# Set up a Development Environment
+
+### Docker in action
+
+1. Open a terminal window and create a new directory.
+<pre><code>$ mkdir hello-docker </pre></code>
+<pre><code>$ cd hello-docker </pre></code>
+2. Open your editor and create a new file "app.js".
+<pre><code>console.log("Hello Docker!"); </pre></code>
+3. Create a file "Dockerfile".
+<pre><code>FROM node:alpine
+COPY . /app
+WORKDIR /app
+CMD node app.js </pre></code>
+4. On the terminal window package the application
+<pre><code>$ docker build -t hello-docker . </pre></code>
+<pre><code>$ docker image ls </pre></code>
