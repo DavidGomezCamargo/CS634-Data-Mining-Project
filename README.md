@@ -11,8 +11,6 @@
 
 Now docker commands work from Windows using the new WSL 2 engine.
 
-# Set up a Development Environment
-
 ### Docker in action
 
 1. Open a terminal window and create a new directory.
@@ -30,12 +28,13 @@ CMD node app.js </pre></code>
 <pre><code>$ docker image ls </pre></code>
 5. Run Hello-docker.
 <pre><code>$ docker run hello-docker </pre></code>
-And the result must be <em>Hello Docker!</em>
+And the result must be <em>Hello Docker!</em>.
+
 6. Run Ubuntu (open-source Linux-based operating system).
 <pre><code>$ docker run ubuntu</pre></code>
 7. Start a container in the interactive mode using the Ubuntu image.
 <pre><code>$ docker run -it ubuntu</pre></code>
 <pre><code>{Shell prompt}:/# </pre></code>
 
-# Screenshot of Docker container terminal prompt.
+### Screenshot of Docker container terminal prompt.
 <img src="Screenshot (119).png">
