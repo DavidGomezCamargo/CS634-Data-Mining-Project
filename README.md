@@ -38,4 +38,4 @@ And the result must be <em>Hello Docker!</em>
 <pre><code>{Shell prompt}:/# </pre></code>
 
 # Screenshot of Docker container terminal prompt.
-<img src="Screenshot (118).png">
+<img src="Screenshot (119).png">
