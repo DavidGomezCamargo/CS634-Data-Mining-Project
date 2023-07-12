@@ -24,6 +24,6 @@ Specifically, Shapley values can help you in:
    
 <center><img src="2.png" class="center" height="400" width="600"></center>
 
-<a href="https://sites.google.com/njit.edu/house-price-prediction/home">Landing page for the prediction app - Google Site</a>
+<a href="https://sites.google.com/njit.edu/house-price-prediction?usp=sharing">Landing page for the prediction app - Google Site</a>
 
 <a href="">Demostration video</a>
