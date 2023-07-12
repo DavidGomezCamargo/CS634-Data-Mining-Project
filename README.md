@@ -1,6 +1,6 @@
 # House Prices - Advanced Regression Techniques
 Interpretable Gradient Boosting - Real Estate House Price Prediction
-### Description <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques">Docker Desktop for Windows</a>
+### Description <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques">Kaggle competition</a>
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
