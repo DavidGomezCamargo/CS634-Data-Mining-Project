@@ -23,3 +23,6 @@ Specifically, Shapley values can help you in:
 2. Local interpretability - your model rejects one of the applications submitted to the bank a few days ago. The customer claims he followed all the guidelines and was sure to get a loan from your bank. Now, you are legally obligated to explain why your model rejected that particular candidate. Using Shapley values, every case can be analyzed independently, without worrying about its connections to other samples in the data. In other words, you have local interpretability. You extract the Shapley values for the complaining customer and show them what parts of their application caused the rejection. You prove them wrong with a plot like this:
    
 <center><img src="2.png" class="center" height="400" width="600"></center>
+
+<a href="">Landing page for the prediction app - Google Site</a>
+<a href="">Demostration video</a>
