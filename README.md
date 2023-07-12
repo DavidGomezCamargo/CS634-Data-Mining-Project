@@ -25,4 +25,5 @@ Specifically, Shapley values can help you in:
 <center><img src="2.png" class="center" height="400" width="600"></center>
 
 <a href="">Landing page for the prediction app - Google Site</a>
+
 <a href="">Demostration video</a>
